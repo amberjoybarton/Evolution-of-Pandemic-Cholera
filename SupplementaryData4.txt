@@ -1,0 +1,179 @@
+"ID"	"Year"	"Country"	"ctxB_type"	"PLE"	"SXT"	"Source"	"Antidefence"	"Date_category"	"Reference_coverage"	"Lineage"
+"29791_3_130"	2014	"Bangladesh"	"ctxB1"	"PLE1"	"None"	"Whole genome sequencing"	"CRISPR"	"Pre-2018"	87.7815924375676	"BD2"
+"29791_3_249"	2015	"Bangladesh"	"ctxB1"	"PLE1"	"ICE-TET"	"Whole genome sequencing"	"CRISPR"	"Pre-2018"	87.7815924375676	NA
+"29791_3_369"	2018	"Bangladesh"	"ctxB1"	"None"	"ICE-TET"	"Whole genome sequencing"	"CRISPR"	"2018"	87.7815924375676	NA
+"29878_3_111"	2015	"Bangladesh"	"ctxB1"	"PLE1"	"ICE-TET"	"Whole genome sequencing"	"CRISPR"	"Pre-2018"	90.6637508034301	NA
+"29878_3_221"	2018	"Bangladesh"	"ctxB7"	"None"	"ICE-GEN"	"Whole genome sequencing"	"odn"	"2018"	95.3667560237659	NA
+"29878_3_267"	2018	"Bangladesh"	"None"	"None"	"None"	"Whole genome sequencing"	"CRISPR"	"2018"	88.3012745144147	NA
+"29878_3_273"	2018	"Bangladesh"	"ctxB1"	"None"	"ICE-TET"	"Whole genome sequencing"	"CRISPR"	"2018"	89.5075953534308	"BD2"
+"29878_3_300"	2018	"Bangladesh"	"ctxB7"	"None"	"ICE-GEN"	"Whole genome sequencing"	"odn"	"2018"	95.3667560237659	NA
+"29878_3_324"	2018	"Bangladesh"	"ctxB7"	"None"	"ICE-GEN"	"Whole genome sequencing"	"odn"	"2018"	95.3667560237659	NA
+"29878_3_354"	2018	"Bangladesh"	"ctxB7"	"None"	"ICE-GEN"	"Whole genome sequencing"	"CRISPR"	"2018"	89.6565238520748	"sBD1"
+"29878_3_97"	2015	"Bangladesh"	"ctxB1"	"PLE1"	"ICE-TET"	"Whole genome sequencing"	"CRISPR"	"Pre-2018"	87.1788239351612	NA
+"31354_3_146"	NA	"Bangladesh"	"ctxB1"	"PLE1"	"ICE-TET"	"Whole genome sequencing"	"CRISPR"	NA	89.6565238520748	NA
+"31354_3_20"	NA	"Bangladesh"	"ctxB1"	"PLE1"	"ICE-TET"	"Whole genome sequencing"	"CRISPR"	NA	87.7815924375676	NA
+"31354_3_211"	2018	"Bangladesh"	"ctxB7"	"None"	"ICE-GEN"	"Whole genome sequencing"	"odn"	"2018"	95.3667560237659	"sBD1"
+"31354_3_7"	2017	"Bangladesh"	"ctxB1"	"None"	"ICE-TET"	"Whole genome sequencing"	"CRISPR"	"Pre-2018"	88.3012745144147	"BD2"
+"33224_2_130"	2018	"Yemen"	"ctxB7"	"None"	"ICE-GEN"	"Whole genome sequencing"	"odn"	"2018"	90.0578469642101	"sBD1"
+"33224_2_132"	2018	"Yemen"	"ctxB7"	"None"	"ICE-GEN"	"Whole genome sequencing"	"odn"	"2018"	90.0578469642101	"sBD1"
+"33224_2_138"	2018	"Yemen"	"ctxB7"	"None"	"ICE-GEN"	"Whole genome sequencing"	"odn"	"2018"	90.0578469642101	"sBD1"
+"33224_2_164"	2019	"Yemen"	"ctxB7"	"None"	"ICE-GEN"	"Whole genome sequencing"	"odn"	"Post-2018"	90.0578469642101	"sBD1"
+"33224_2_191"	2019	"Yemen"	"ctxB7"	"None"	"ICE-GEN"	"Whole genome sequencing"	"odn"	"Post-2018"	90.0578469642101	"sBD1"
+"33224_2_2"	2019	"Yemen"	"ctxB7"	"None"	"ICE-GEN"	"Whole genome sequencing"	"odn"	"Post-2018"	90.0578469642101	"sBD1"
+"33224_2_276"	2019	"Yemen"	"ctxB7"	"None"	"ICE-GEN"	"Whole genome sequencing"	"odn"	"Post-2018"	87.5323331608898	"sBD1"
+"33224_2_277"	2019	"Yemen"	"ctxB7"	"None"	"ICE-GEN"	"Whole genome sequencing"	"odn"	"Post-2018"	83.6986000721127	"sBD1"
+"33224_2_300"	2018	"Yemen"	"ctxB7"	"None"	"ICE-GEN"	"Whole genome sequencing"	"odn"	"2018"	90.0578469642101	"sBD1"
+"33224_2_315"	2018	"Yemen"	"ctxB7"	"None"	"ICE-GEN"	"Whole genome sequencing"	"odn"	"2018"	90.0578469642101	"sBD1"
+"33224_2_320"	2019	"Yemen"	"ctxB7"	"None"	"ICE-GEN"	"Whole genome sequencing"	"odn"	"Post-2018"	90.0578469642101	"sBD1"
+"33224_2_321"	2018	"Yemen"	"ctxB7"	"None"	"ICE-GEN"	"Whole genome sequencing"	"odn"	"2018"	89.3382871654988	"sBD1"
+"33224_2_90"	2018	"Yemen"	"ctxB7"	"None"	"ICE-GEN"	"Whole genome sequencing"	"odn"	"2018"	90.0578469642101	"sBD1"
+"48181_1_216"	2023	"India"	"ctxB7"	"None"	"ICE-GEN"	"Whole genome sequencing"	"odn"	"Post-2018"	95.3667560237659	"sBD1"
+"DRR251917"	2017	"India"	"ctxB7"	"ND"	"ICE-GEN"	"Metagenomics"	"odn"	"Pre-2018"	93.3695464735299	NA
+"DRR251918"	2017	"India"	"ND"	"ND"	"ICE-GEN"	"Metagenomics"	"odn"	"Pre-2018"	91.3739045917008	NA
+"DRR251928"	2018	"India"	"ND"	"ND"	"Insufficient coverage"	"Metagenomics"	"odn"	"2018"	73.3864772923231	NA
+"DRR251932"	2018	"India"	"ND"	"Insufficient coverage"	"ND"	"Metagenomics"	"odn"	"2018"	93.3225164213266	NA
+"DRR251938"	2018	"India"	"ND"	"Insufficient coverage"	"ND"	"Metagenomics"	"odn"	"2018"	93.3405446080045	NA
+"DRR251939"	2018	"India"	"ctxB7"	"ND"	"ICE-GEN"	"Metagenomics"	"odn"	"2018"	93.6431046105128	NA
+"DRR251963"	2017	"India"	"ND"	"ND"	"ND"	"Metagenomics"	"odn"	"Pre-2018"	83.3795795513333	NA
+"ERR572807"	2012	"Democratic Republic of the Congo"	"ctxB1"	"None"	"ICE-GEN"	"Whole genome sequencing"	"odn"	"Pre-2018"	93.0034959005471	"Other"
+"ERR866575"	2011	"Bangladesh"	"ctxB1"	"PLE1"	"ICE-TET"	"Metagenomics"	"CRISPR"	"Pre-2018"	62.9536440452116	NA
+"ERR866578"	2011	"Bangladesh"	"ctxB1"	"PLE1"	"ICE-TET"	"Metagenomics"	"CRISPR"	"Pre-2018"	88.3012745144147	NA
+"GCA_000893175"	2001	"Bangladesh"	NA	NA	NA	"NCBI Assembly"	"odn"	"Pre-2018"	98.7286209221026	NA
+"GCA_019333585"	2018	"Yemen"	NA	NA	NA	"NCBI Assembly"	"odn"	"2018"	90.0578469642101	NA
+"GCA_019333595"	2019	"Yemen"	NA	NA	NA	"NCBI Assembly"	"odn"	"Post-2018"	90.0578469642101	NA
+"GCA_019333605"	2019	"Yemen"	NA	NA	NA	"NCBI Assembly"	"odn"	"Post-2018"	90.0578469642101	NA
+"GCA_019333615"	2019	"Yemen"	NA	NA	NA	"NCBI Assembly"	"odn"	"Post-2018"	90.0578469642101	NA
+"GCA_020494355"	2017	"Bangladesh"	NA	NA	NA	"NCBI Assembly"	"CRISPR"	"Pre-2018"	88.3012745144147	NA
+"GCA_020494365"	2019	"Bangladesh"	NA	NA	NA	"NCBI Assembly"	"odn"	"Post-2018"	97.1100032921037	NA
+"GCA_020494375"	2019	"Bangladesh"	NA	NA	NA	"NCBI Assembly"	"odn"	"Post-2018"	95.3667560237659	NA
+"GCA_020494385"	2019	"Bangladesh"	NA	NA	NA	"NCBI Assembly"	"CRISPR"	"Post-2018"	89.5075953534308	NA
+"GCA_020494395"	2019	"Bangladesh"	NA	NA	NA	"NCBI Assembly"	"odn"	"Post-2018"	95.3667560237659	NA
+"GCA_020494405"	2019	"Bangladesh"	NA	NA	NA	"NCBI Assembly"	"CRISPR"	"Post-2018"	89.5075953534308	NA
+"GCA_020494415"	2019	"Bangladesh"	NA	NA	NA	"NCBI Assembly"	"odn"	"Post-2018"	95.3667560237659	NA
+"GCA_020494425"	2019	"Bangladesh"	NA	NA	NA	"NCBI Assembly"	"odn"	"Post-2018"	95.3667560237659	NA
+"GCA_020494435"	2019	"Bangladesh"	NA	NA	NA	"NCBI Assembly"	"odn"	"Post-2018"	95.3667560237659	NA
+"GCA_020494445"	2019	"Bangladesh"	NA	NA	NA	"NCBI Assembly"	"odn"	"Post-2018"	95.3667560237659	NA
+"GCA_020494455"	2018	"Bangladesh"	NA	NA	NA	"NCBI Assembly"	"CRISPR"	"2018"	89.5075953534308	NA
+"GCA_020494465"	2018	"Bangladesh"	NA	NA	NA	"NCBI Assembly"	"CRISPR"	"2018"	89.5075953534308	NA
+"GCA_020494475"	2018	"Bangladesh"	NA	NA	NA	"NCBI Assembly"	"odn"	"2018"	93.1798585963097	NA
+"GCA_020494485"	2018	"Bangladesh"	NA	NA	NA	"NCBI Assembly"	"CRISPR"	"2018"	89.5075953534308	NA
+"GCA_020494495"	2018	"Bangladesh"	NA	NA	NA	"NCBI Assembly"	"CRISPR"	"2018"	90.0241420934644	NA
+"GCA_020494505"	2018	"Bangladesh"	NA	NA	NA	"NCBI Assembly"	"odn"	"2018"	92.1185470849206	NA
+"GCA_020494515"	2018	"Bangladesh"	NA	NA	NA	"NCBI Assembly"	"CRISPR"	"2018"	89.5075953534308	NA
+"GCA_020494525"	2018	"Bangladesh"	NA	NA	NA	"NCBI Assembly"	"CRISPR"	"2018"	86.7320384392293	NA
+"GCA_020494535"	2018	"Bangladesh"	NA	NA	NA	"NCBI Assembly"	"odn"	"2018"	95.3667560237659	NA
+"GCA_020494545"	2018	"Bangladesh"	NA	NA	NA	"NCBI Assembly"	"odn"	"2018"	93.5208264747841	NA
+"GCA_020494555"	2017	"Bangladesh"	NA	NA	NA	"NCBI Assembly"	"CRISPR"	"Pre-2018"	89.5075953534308	NA
+"GCA_020494565"	2017	"Bangladesh"	NA	NA	NA	"NCBI Assembly"	"CRISPR"	"Pre-2018"	89.5075953534308	NA
+"GCA_020494575"	2017	"Bangladesh"	NA	NA	NA	"NCBI Assembly"	"CRISPR"	"Pre-2018"	88.3012745144147	NA
+"GCA_020494585"	2017	"Bangladesh"	NA	NA	NA	"NCBI Assembly"	"CRISPR"	"Pre-2018"	88.3012745144147	NA
+"GCA_020495075"	2017	"Bangladesh"	NA	NA	NA	"NCBI Assembly"	"CRISPR"	"Pre-2018"	88.3012745144147	NA
+"GCA_020495085"	2017	"Bangladesh"	NA	NA	NA	"NCBI Assembly"	"CRISPR"	"Pre-2018"	88.3012745144147	NA
+"GCA_020495095"	2017	"Bangladesh"	NA	NA	NA	"NCBI Assembly"	"CRISPR"	"Pre-2018"	88.3012745144147	NA
+"GCA_020495105"	2017	"Bangladesh"	NA	NA	NA	"NCBI Assembly"	"CRISPR"	"Pre-2018"	88.3012745144147	NA
+"GCA_020495115"	2017	"Bangladesh"	NA	NA	NA	"NCBI Assembly"	"CRISPR"	"Pre-2018"	88.3012745144147	NA
+"GCA_020495125"	2017	"Bangladesh"	NA	NA	NA	"NCBI Assembly"	"CRISPR"	"Pre-2018"	88.3012745144147	NA
+"GCA_020495135"	2017	"Bangladesh"	NA	NA	NA	"NCBI Assembly"	"CRISPR"	"Pre-2018"	88.3012745144147	NA
+"GCA_020495145"	2017	"Bangladesh"	NA	NA	NA	"NCBI Assembly"	"CRISPR"	"Pre-2018"	88.3012745144147	NA
+"GCA_020495155"	2017	"Bangladesh"	NA	NA	NA	"NCBI Assembly"	"CRISPR"	"Pre-2018"	88.3012745144147	NA
+"GCA_020495165"	2017	"Bangladesh"	NA	NA	NA	"NCBI Assembly"	"CRISPR"	"Pre-2018"	88.3012745144147	NA
+"GCA_020495175"	2017	"Bangladesh"	NA	NA	NA	"NCBI Assembly"	"CRISPR"	"Pre-2018"	88.3012745144147	NA
+"GCA_020495185"	2017	"Bangladesh"	NA	NA	NA	"NCBI Assembly"	"CRISPR"	"Pre-2018"	88.3012745144147	NA
+"GCA_020495195"	2017	"Bangladesh"	NA	NA	NA	"NCBI Assembly"	"CRISPR"	"Pre-2018"	88.3012745144147	NA
+"GCA_020495205"	2017	"Bangladesh"	NA	NA	NA	"NCBI Assembly"	"CRISPR"	"Pre-2018"	88.3012745144147	NA
+"GCA_020495215"	2017	"Bangladesh"	NA	NA	NA	"NCBI Assembly"	"CRISPR"	"Pre-2018"	88.3012745144147	NA
+"GCA_020495225"	2017	"Bangladesh"	NA	NA	NA	"NCBI Assembly"	"CRISPR"	"Pre-2018"	88.3012745144147	NA
+"GCA_020495235"	2017	"Bangladesh"	NA	NA	NA	"NCBI Assembly"	"CRISPR"	"Pre-2018"	87.7815924375676	NA
+"GCA_020495265"	2017	"Bangladesh"	NA	NA	NA	"NCBI Assembly"	"CRISPR"	"Pre-2018"	88.3012745144147	NA
+"GCA_020495355"	2016	"Bangladesh"	NA	NA	NA	"NCBI Assembly"	"CRISPR"	"Pre-2018"	88.3012745144147	NA
+"GCA_022808035"	2003	"Bangladesh"	NA	NA	NA	"NCBI Assembly"	"CRISPR"	"Pre-2018"	94.8925363307153	NA
+"GCA_022808045"	1992	"India"	NA	NA	NA	"NCBI Assembly"	"odn"	"Pre-2018"	85.732649829908	NA
+"GCA_022808055"	2017	"Democratic Republic of the Congo"	NA	NA	NA	"NCBI Assembly"	"odn"	"Pre-2018"	93.2362946589537	NA
+"GCA_022808065"	2017	"Democratic Republic of the Congo"	NA	NA	NA	"NCBI Assembly"	"odn"	"Pre-2018"	93.2362946589537	NA
+"GCA_022808075"	2017	"Democratic Republic of the Congo"	NA	NA	NA	"NCBI Assembly"	"odn"	"Pre-2018"	93.2362946589537	NA
+"GCA_022808085"	2017	"Democratic Republic of the Congo"	NA	NA	NA	"NCBI Assembly"	"odn"	"Pre-2018"	93.2362946589537	NA
+"GCA_022808095"	2017	"Democratic Republic of the Congo"	NA	NA	NA	"NCBI Assembly"	"odn"	"Pre-2018"	93.2362946589537	NA
+"GCA_022808105"	2017	"Democratic Republic of the Congo"	NA	NA	NA	"NCBI Assembly"	"odn"	"Pre-2018"	93.2362946589537	NA
+"GCA_022808115"	2017	"Democratic Republic of the Congo"	NA	NA	NA	"NCBI Assembly"	"odn"	"Pre-2018"	93.2362946589537	NA
+"GCA_022808125"	2017	"Democratic Republic of the Congo"	NA	NA	NA	"NCBI Assembly"	"odn"	"Pre-2018"	93.2362946589537	NA
+"GCA_022808135"	2015	"Bangladesh"	NA	NA	NA	"NCBI Assembly"	"CRISPR"	"Pre-2018"	88.3012745144147	NA
+"GCF_000893175"	2001	"Bangladesh"	NA	NA	NA	"NCBI Assembly"	"odn"	"Pre-2018"	98.7286209221026	NA
+"GVE0230"	2022	"Bangladesh"	"ctxB7"	"None"	"ICE-GEN"	"Whole genome sequencing"	"odn"	"Post-2018"	95.3667560237659	NA
+"SRR11236248"	2014	"Bangladesh"	"ND"	"Insufficient coverage"	"ND"	"Metagenomics"	"CRISPR"	"Pre-2018"	88.3012745144147	NA
+"SRR11236249"	2014	"Bangladesh"	"ND"	"Insufficient coverage"	"ND"	"Metagenomics"	"CRISPR"	"Pre-2018"	86.9076173007885	NA
+"SRR11236250"	2014	"Bangladesh"	"ND"	"Insufficient coverage"	"ND"	"Metagenomics"	"CRISPR"	"Pre-2018"	88.3012745144147	NA
+"SRR11236251"	2014	"Bangladesh"	"ND"	"Insufficient coverage"	"ND"	"Metagenomics"	"CRISPR"	"Pre-2018"	88.1413723369233	NA
+"SRR11236252"	2014	"Bangladesh"	"ND"	"Insufficient coverage"	"ND"	"Metagenomics"	"CRISPR"	"Pre-2018"	88.3012745144147	NA
+"SRR11236253"	2014	"Bangladesh"	"ND"	"Insufficient coverage"	"ND"	"Metagenomics"	"CRISPR"	"Pre-2018"	88.2793271567198	NA
+"SRR12874577"	2014	"Bangladesh"	"ctxB1"	"ND"	"ICE-TET"	"Metagenomics"	"CRISPR"	"Pre-2018"	88.2801109909232	NA
+"SRR12874578"	2014	"Bangladesh"	"ND"	"Insufficient coverage"	"ND"	"Metagenomics"	"CRISPR"	"Pre-2018"	88.2848139961435	NA
+"SRR12874579"	2014	"Bangladesh"	"ND"	"PLE1"	"ND"	"Metagenomics"	"CRISPR"	"Pre-2018"	88.3012745144147	NA
+"SRR12874583"	2014	"Bangladesh"	"ND"	"Insufficient coverage"	"ND"	"Metagenomics"	"CRISPR"	"Pre-2018"	88.3012745144147	NA
+"SRR14297659"	2018	"Bangladesh"	"ctxB1"	"None"	"None"	"Whole genome sequencing"	"CRISPR"	"2018"	89.9677060308204	"BD2"
+"SRR25010949"	2018	"Bangladesh"	"ctxB1"	"ND"	"ICE-TET"	"Metagenomics"	"CRISPR"	"2018"	87.7815924375676	NA
+"SRR25010950"	2018	"Bangladesh"	"ND"	"ND"	"Insufficient coverage"	"Metagenomics"	"CRISPR"	"2018"	87.7815924375676	NA
+"SRR25010951"	2018	"Bangladesh"	"ctxB1"	"ND"	"ICE-TET"	"Metagenomics"	"CRISPR"	"2018"	88.3012745144147	NA
+"SRR25010952"	2018	"Bangladesh"	"ctxB1"	"ND"	"ICE-TET"	"Metagenomics"	"CRISPR"	"2018"	88.3012745144147	NA
+"SRR25010956"	2018	"Bangladesh"	"ctxB1"	"ND"	"ICEVchBan9"	"Metagenomics"	"CRISPR"	"2018"	87.7815924375676	NA
+"SRR25010960"	2018	"Bangladesh"	"ctxB1"	"ND"	"ICE-TET"	"Metagenomics"	"CRISPR"	"2018"	90.1425010581762	NA
+"SRR25010968"	2018	"Bangladesh"	"ND"	"ND"	"Insufficient coverage"	"Metagenomics"	"Both"	"2018"	95.3667560237659	NA
+"SRR25010972"	2018	"Bangladesh"	"ctxB7"	"Insufficient coverage"	"ICE-GEN"	"Metagenomics"	"odn"	"2018"	95.3667560237659	NA
+"SRR25010973"	2018	"Bangladesh"	"ND"	"ND"	"ICE-GEN"	"Metagenomics"	"odn"	"2018"	95.3667560237659	NA
+"SRR25010974"	2018	"Bangladesh"	"ND"	"Insufficient coverage"	"Insufficient coverage"	"Metagenomics"	"odn"	"2018"	95.3667560237659	NA
+"SRR25010975"	2018	"Bangladesh"	"ND"	"ND"	"Insufficient coverage"	"Metagenomics"	"CRISPR"	"2018"	88.3012745144147	NA
+"SRR25010976"	2018	"Bangladesh"	"ND"	"ND"	"Insufficient coverage"	"Metagenomics"	"Both"	"2018"	95.3667560237659	NA
+"SRR25010977"	2018	"Bangladesh"	"ND"	"Insufficient coverage"	"ND"	"Metagenomics"	"CRISPR"	"2018"	88.3012745144147	NA
+"SRR25010979"	2018	"Bangladesh"	"ctxB1"	"ND"	"Insufficient coverage"	"Metagenomics"	"CRISPR"	"2018"	87.764348085093	NA
+"SRR25010984"	2018	"Bangladesh"	"ctxB7"	"ND"	"ICE-GEN"	"Metagenomics"	"CRISPR"	"2018"	87.764348085093	NA
+"SRR25010991"	2018	"Bangladesh"	"ctxB7"	"ND"	"ICE-GEN"	"Metagenomics"	"CRISPR"	"2018"	87.764348085093	NA
+"SRR25010993"	2018	"Bangladesh"	"ctxB7"	"ND"	"ICE-GEN"	"Metagenomics"	"CRISPR"	"2018"	86.3989089027889	NA
+"SRR25010994"	2018	"Bangladesh"	"ctxB7"	"ND"	"ICE-GEN"	"Metagenomics"	"CRISPR"	"2018"	87.764348085093	NA
+"SRR25010999"	2018	"Bangladesh"	"ctxB7"	"ND"	"ICE-GEN"	"Metagenomics"	"CRISPR"	"2018"	87.764348085093	NA
+"SRR25011001"	2018	"Bangladesh"	"ctxB7"	"ND"	"ICEVchBan9"	"Metagenomics"	"CRISPR"	"2018"	87.764348085093	NA
+"SRR25011005"	2018	"Bangladesh"	"ctxB7"	"ND"	"ICE-GEN"	"Metagenomics"	"CRISPR"	"2018"	85.3109470284845	NA
+"SRR25011010"	2018	"Bangladesh"	"ND"	"ND"	"ND"	"Metagenomics"	"CRISPR"	"2018"	88.3012745144147	NA
+"SRR25011011"	2018	"Bangladesh"	"ctxB7"	"ND"	"ICE-GEN"	"Metagenomics"	"odn"	"2018"	95.3667560237659	NA
+"SRR25011017"	2018	"Bangladesh"	"ND"	"Insufficient coverage"	"ND"	"Metagenomics"	"odn"	"2018"	71.3939707473075	NA
+"SRR25011021"	2018	"Bangladesh"	"ctxB7"	"ND"	"ICE-GEN"	"Metagenomics"	"odn"	"2018"	95.3667560237659	NA
+"SRR25011023"	2018	"Bangladesh"	"ctxB7"	"ND"	"ICE-GEN"	"Metagenomics"	"odn"	"2018"	95.3667560237659	NA
+"SRR25011029"	2018	"Bangladesh"	"ctxB7"	"ND"	"ICE-GEN"	"Metagenomics"	"odn"	"2018"	95.3667560237659	NA
+"SRR25011030"	2018	"Bangladesh"	"ctxB7"	"ND"	"ICE-GEN"	"Metagenomics"	"Both"	"2018"	95.3667560237659	NA
+"SRR25011032"	2018	"Bangladesh"	"ctxB7"	"ND"	"ICE-GEN"	"Metagenomics"	"odn"	"2018"	95.3667560237659	NA
+"SRR25011034"	2018	"Bangladesh"	"ctxB7"	"ND"	"ICE-GEN"	"Metagenomics"	"odn"	"2018"	95.3667560237659	NA
+"SRR25011040"	2018	"Bangladesh"	"ND"	"Insufficient coverage"	"Insufficient coverage"	"Metagenomics"	"CRISPR"	"2018"	88.3012745144147	NA
+"SRR25011042"	2018	"Bangladesh"	"ctxB7"	"ND"	"ICE-GEN"	"Metagenomics"	"odn"	"2018"	95.3667560237659	NA
+"SRR25011043"	2018	"Bangladesh"	"ctxB7"	"ND"	"ICE-GEN"	"Metagenomics"	"odn"	"2018"	95.3667560237659	NA
+"SRR25011048"	2018	"Bangladesh"	"ctxB1"	"ND"	"Insufficient coverage"	"Metagenomics"	"CRISPR"	"2018"	88.3012745144147	NA
+"SRR25011053"	2018	"Bangladesh"	"ctxB7"	"ND"	"ICE-GEN"	"Metagenomics"	"odn"	"2018"	95.5478217247488	NA
+"SRR25011054"	2018	"Bangladesh"	"ctxB7"	"ND"	"ICEVchBan9"	"Metagenomics"	"Both"	"2018"	95.4529777861387	NA
+"SRR25011058"	2018	"Bangladesh"	"ctxB7"	"ND"	"ICE-GEN"	"Metagenomics"	"odn"	"2018"	95.3667560237659	NA
+"SRR25011068"	2018	"Bangladesh"	"ND"	"Insufficient coverage"	"ND"	"Metagenomics"	"odn"	"2018"	95.3667560237659	NA
+"SRR25011104"	2018	"Bangladesh"	"ctxB7"	"Insufficient coverage"	"ICE-GEN"	"Metagenomics"	"CRISPR"	"2018"	89.6565238520748	NA
+"SRR25011105"	2018	"Bangladesh"	"ND"	"ND"	"Insufficient coverage"	"Metagenomics"	"CRISPR"	"2018"	89.6565238520748	NA
+"SRR25011139"	2018	"Bangladesh"	"ctxB7"	"ND"	"ICE-GEN"	"Metagenomics"	"Both"	"2018"	95.5478217247488	NA
+"SRR25011169"	2018	"Bangladesh"	"ND"	"ND"	"ICE-TET"	"Metagenomics"	"CRISPR"	"2018"	88.3012745144147	NA
+"SRR25011173"	2018	"Bangladesh"	"ND"	"Insufficient coverage"	"ND"	"Metagenomics"	"CRISPR"	"2018"	87.7815924375676	NA
+"SRR25011177"	2018	"Bangladesh"	"ctxB1"	"ND"	"ICE-TET"	"Metagenomics"	"CRISPR"	"2018"	87.7815924375676	NA
+"SRR25011178"	2018	"Bangladesh"	"ctxB1"	"ND"	"ICE-GEN"	"Metagenomics"	"CRISPR"	"2018"	88.3012745144147	NA
+"SRR25011179"	2018	"Bangladesh"	"ND"	"ND"	"ICE-TET"	"Metagenomics"	"CRISPR"	"2018"	89.3249619840411	NA
+"SRR25011182"	2018	"Bangladesh"	"ctxB1"	"ND"	"ICE-TET"	"Metagenomics"	"CRISPR"	"2018"	87.7815924375676	NA
+"SRR25011185"	2018	"Bangladesh"	"ctxB1"	"ND"	"Insufficient coverage"	"Metagenomics"	"CRISPR"	"2018"	88.3012745144147	NA
+"SRR25011187"	2018	"Bangladesh"	"ctxB1"	"Insufficient coverage"	"ICE-TET"	"Metagenomics"	"CRISPR"	"2018"	69.1286898995125	NA
+"SRR25011189"	2018	"Bangladesh"	"ctxB1"	"ND"	"ICE-TET"	"Metagenomics"	"CRISPR"	"2018"	87.7815924375676	NA
+"SRR25011191"	2018	"Bangladesh"	"ctxB1"	"ND"	"ICE-TET"	"Metagenomics"	"CRISPR"	"2018"	80.8846352819452	NA
+"SRR25011193"	2018	"Bangladesh"	"ctxB1"	"ND"	"ICE-TET"	"Metagenomics"	"CRISPR"	"2018"	87.7815924375676	NA
+"SRR25011233"	2018	"Bangladesh"	"ctxB1"	"ND"	"Insufficient coverage"	"Metagenomics"	"CRISPR"	"2018"	88.3012745144147	NA
+"SRR25011236"	2019	"Bangladesh"	"ctxB7"	"ND"	"ICE-GEN"	"Metagenomics"	"odn"	"Post-2018"	95.3667560237659	NA
+"SRR25011237"	2019	"Bangladesh"	"ctxB7"	"ND"	"ICE-GEN"	"Metagenomics"	"odn"	"Post-2018"	95.3667560237659	NA
+"SRR25011238"	2019	"Bangladesh"	"ctxB7"	"ND"	"ICE-GEN"	"Metagenomics"	"odn"	"Post-2018"	95.3667560237659	NA
+"SRR25011240"	2019	"Bangladesh"	"ctxB7"	"ND"	"ICE-GEN"	"Metagenomics"	"odn"	"Post-2018"	95.3667560237659	NA
+"SRR25011241"	2019	"Bangladesh"	"ctxB1"	"ND"	"Insufficient coverage"	"Metagenomics"	"CRISPR"	"Post-2018"	88.3012745144147	NA
+"SRR25011242"	2019	"Bangladesh"	"ctxB7"	"ND"	"ICE-GEN"	"Metagenomics"	"odn"	"Post-2018"	95.3667560237659	NA
+"SRR25011244"	2018	"Bangladesh"	"ctxB1"	"ND"	"Insufficient coverage"	"Metagenomics"	"CRISPR"	"2018"	88.3012745144147	NA
+"SRR25011248"	2018	"Bangladesh"	"ctxB7"	"ND"	"ICE-GEN"	"Metagenomics"	"odn"	"2018"	95.3667560237659	NA
+"SRR25011249"	2018	"Bangladesh"	"ND"	"ND"	"ND"	"Metagenomics"	"odn"	"2018"	95.3667560237659	NA
+"SRR25011255"	2018	"Bangladesh"	"ctxB1"	"ND"	"Insufficient coverage"	"Metagenomics"	"CRISPR"	"2018"	88.3012745144147	NA
+"SRR25011259"	2018	"Bangladesh"	"ctxB1"	"ND"	"Insufficient coverage"	"Metagenomics"	"CRISPR"	"2018"	89.6565238520748	NA
+"SRR25011261"	2018	"Bangladesh"	"ctxB1"	"ND"	"Insufficient coverage"	"Metagenomics"	"CRISPR"	"2018"	88.3012745144147	NA
+"SRR25011263"	2018	"Bangladesh"	"ctxB1"	"ND"	"Insufficient coverage"	"Metagenomics"	"CRISPR"	"2018"	88.3012745144147	NA
+"THSTI_45869"	2015	"India"	"ctxB7"	"None"	"ICE-GEN"	"Whole genome sequencing"	"odn"	"Pre-2018"	95.3667560237659	"sBD1"
