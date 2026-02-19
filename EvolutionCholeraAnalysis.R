@@ -3,7 +3,6 @@
 rm(list=ls())
 
 #Set working directory
-setwd("/Users/ab61/Documents/Papers/Cholera/Nature Submission/Revisions Round 2/Reproducibility")
 
 #Activate packages
 library(readxl)
